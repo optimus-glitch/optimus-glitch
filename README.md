@@ -6,12 +6,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ian+Thuo!;" />
 </h1>
 
-<h3 align="center">A passionate developer from Kenya</h3>
+<h3 align="center"> I'm a passionate learner with a burning curiosity for all things related to cybersecurity and software development. 🌐💻</h3>
 
 <br/>
 
 <div align="center">
- 
+
+  💡 I'm continually exploring the exciting world of cybersecurity, learning the ins and outs of digital defense and ethical hacking.
+  💻 I code in various languages, including:
+        ☕ Java
+        🅒 C
+        🐍 Python
+        🌐 JavaScript
+        🚀 PHP
+        ⚛️ React
  
  🌱 I’m currently learning **Machine Learning, Tailwind, React, Django**
 
